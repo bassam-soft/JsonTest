@@ -289,6 +289,46 @@
                     "isTaskForSalesOrCustomerSupportDep": true
                 },
                 "staff": null
+            }, {
+                "id": 1,
+                "taskTypeId": 2,
+                "fromDateTime": "2022-08-28T14:59:00",
+                "toDateTime": "2022-08-28T17:00:00",
+                "currentLatitude": 24.674373,
+                "currentLongitude": 46.818107,
+                "currentAlitude": 615,
+                "destinationLatitude": 24.677002,
+                "destinationLongitude": 46.802314,
+                "destinationAlitude": 615,
+                "destinationGeofence": "[\r\n\t\t\t  {\r\n\t\t\t\t\"y\": 24.6784668,\r\n\t\t\t\t\"x\": 46.8007773\r\n\t\t\t  },\r\n\t\t\t  {\r\n\t\t\t\t\"y\": 24.6780382,\r\n\t\t\t\t\"x\": 46.8008707\r\n\t\t\t  },\r\n\t\t\t  {\r\n\t\t\t\t\"y\": 24.677959,\r\n\t\t\t\t\"x\": 46.8010852\r\n\t\t\t  },\r\n\t\t\t  {\r\n\t\t\t\t\"y\": 24.67816,\r\n\t\t\t\t\"x\": 46.8010128\r\n\t\t\t  }\r\n\t\t\t]",
+                "customerId": 1,
+                "customerNameAr": null,
+                "customerNameEn": null,
+                "taskTitle": "زيارة شركة تركيا",
+                "taskDescription": "تمت الزيارة بخصوص عرض اجهزة التتبع ونظام شركة ضمان المهندس",
+                "taskAchivedTime": null,
+                "taskStatusId": 2,
+                "taskCanceledBy": null,
+                "agentId": 17,
+                "staffId": 17,
+                "createdBy": null,
+                "updatedBy": null,
+                "createdDate": null,
+                "updatedDate": null,
+                "taskStatus": {
+                    "id": 4,
+                    "statusAr": "المهمة في انتظار الموافقة",
+                    "statusEn": "Task Awaiting Approval"
+                },
+                "taskType": {
+                    "id": 2,
+                    "nameAr": "زيارة عميل (قسم المبيعات, الدعم الفني)",
+                    "nameEn": "Visit Client (Sales Department, Customer Support Department)",
+                    "isTaskOnAgentSite": true,
+                    "isTaskForTechniciansDep": false,
+                    "isTaskForSalesOrCustomerSupportDep": true
+                },
+                "staff": null
             },
             {
                 "id": 1,
