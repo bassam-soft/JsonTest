@@ -3,28 +3,6 @@ Search or jump to…
 Pull requests
 Issues
 Marketplace
-Explore
- 
-@bassam-soft 
-bassam-soft
-/
-eweoffice
-Private
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-eweoffice/lib/app/models/json/task/tasks.json
-@bassam-soft
-bassam-soft ddddd.json
-Latest commit 7be3ec6 6 minutes ago
- History
- 1 contributor
-4106 lines (4106 sloc)  194 KB
 
 {
     "isSuccess": true,
@@ -14274,18 +14252,4 @@ Latest commit 7be3ec6 6 minutes ago
     },
     "errorList": []
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
+
